@@ -1,5 +1,5 @@
-# README.md
-# Hi there! 👋 I'm Surya Gowtham Vakkalagadda
+# Hi there! 👋 
+I'm Surya Gowtham Vakkalagadda
 
 I'm an aspiring **Data Scientist** with a passion for analyzing data, building models, and delivering insights to drive impactful decisions.
 
